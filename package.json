@@ -1,0 +1,19 @@
+{
+  "name": "the-movie-db-project",
+  "version": "1.0.0",
+  "description": "Proyecto de Consumo de API Rest, de The Movie DB",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snowbot22/The-Movie-DB-Project.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snowbot22/The-Movie-DB-Project/issues"
+  },
+  "homepage": "https://github.com/snowbot22/The-Movie-DB-Project#readme"
+}
